@@ -1,0 +1,350 @@
+{
+  "label": "Demo / Synthetic Dataset",
+  "asset_bundle_id": "2f8a5cd7-1a24-4ad7-aebd-6def04820fcf",
+  "parcel_id": "b2337d02-89f9-5f34-a719-3b5f8615164b",
+  "files": [
+    "scene.glb",
+    "tileset.json",
+    "properties.geojson",
+    "gltf-validation.json",
+    "09726806-8875-50f3-865c-8e9c61547135.glb",
+    "0e2fb122-0791-565b-8dc6-10d865cbdc59.glb",
+    "0ea4f819-23c3-5c61-b46e-52c878727beb.glb",
+    "1339e03e-d518-5332-b138-52dc3cc4748e.glb",
+    "23caa96a-479c-5220-8a34-e2e5346c6d07.glb",
+    "2f3a01be-038b-5405-88b3-b453d2431e86.glb",
+    "3f75333b-71b7-55c4-a6a3-5c8707fc18ba.glb",
+    "40ea810c-ddf0-529c-881e-489a1ce66a00.glb",
+    "59d7b1a3-f13d-5b5d-8b7f-a3b8bc34902c.glb",
+    "68a78127-1bb7-5679-98bf-10c5865e1507.glb",
+    "76016de2-606b-5363-a4e1-e16fe6415905.glb",
+    "8f296a9e-11de-51d8-86ab-c9e977328f18.glb",
+    "a3510fa4-5044-5c45-a11e-81456200c931.glb",
+    "b110d31f-37e1-5128-8b0a-33dbf1110413.glb",
+    "c63ee5fb-7087-5943-b93b-aaaeecdc9464.glb",
+    "e4775cf7-9d67-5b4b-b47a-0a9de7bfd349.glb"
+  ],
+  "geometry_checks": {
+    "lod": "single detail level, per-object streaming",
+    "tileset": "1.1 schema with per-tile metadata; bounding boxes derived from all exported vertices",
+    "geometry": {
+      "scene.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 768.4266830057974,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 432.24204613623766,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 432.24128419006684,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 432.2416211859401,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 432.24081201803284,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 432.24040845917085,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 54.030152886459966,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 54.030100806074664,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 54.03020329492684,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 54.0300493242641,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 54.03025284301588,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 378.2110893491279,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 378.21144639751134,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 378.2103728055277,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 378.2107255898029,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          },
+          {
+            "closed": true,
+            "volume": 378.2118025124111,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 16
+      },
+      "09726806-8875-50f3-865c-8e9c61547135.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 768.4266830057974,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "0e2fb122-0791-565b-8dc6-10d865cbdc59.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 378.2110893491279,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "0ea4f819-23c3-5c61-b46e-52c878727beb.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 54.030152886459966,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "1339e03e-d518-5332-b138-52dc3cc4748e.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 54.030100806074664,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "23caa96a-479c-5220-8a34-e2e5346c6d07.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 54.03020329492684,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "2f3a01be-038b-5405-88b3-b453d2431e86.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 378.21144639751134,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "3f75333b-71b7-55c4-a6a3-5c8707fc18ba.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 432.24204613623766,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "40ea810c-ddf0-529c-881e-489a1ce66a00.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 432.24128419006684,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "59d7b1a3-f13d-5b5d-8b7f-a3b8bc34902c.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 54.0300493242641,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "68a78127-1bb7-5679-98bf-10c5865e1507.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 432.2416211859401,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "76016de2-606b-5363-a4e1-e16fe6415905.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 432.24081201803284,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "8f296a9e-11de-51d8-86ab-c9e977328f18.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 378.2103728055277,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "a3510fa4-5044-5c45-a11e-81456200c931.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 432.24040845917085,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "b110d31f-37e1-5128-8b0a-33dbf1110413.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 378.2107255898029,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "c63ee5fb-7087-5943-b93b-aaaeecdc9464.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 54.03025284301588,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      },
+      "e4775cf7-9d67-5b4b-b47a-0a9de7bfd349.glb": {
+        "meshes": [
+          {
+            "closed": true,
+            "volume": 378.2118025124111,
+            "vertices": 8,
+            "triangles": 12,
+            "consistent_winding": true
+          }
+        ],
+        "mesh_count": 1
+      }
+    },
+    "khronos_errors": 0
+  },
+  "status": "PROCESSED_NOT_LEGALLY_ACCEPTED",
+  "building_height_m": 15.0,
+  "floor_count": 5,
+  "space_count": 16,
+  "suggested_plane_count": 6,
+  "models_executed": false,
+  "accepted_geometry": false
+}

@@ -1,0 +1,19 @@
+{
+  "scope": "Local Python read services plus JSON encoding against actual PostGIS; warm pool/cache; excludes HTTP, WAN and authentication latency",
+  "results": {
+    "property_case": {
+      "samples": 20,
+      "median_ms": 45.38,
+      "p95_ms": 112.11,
+      "sql_statements_max": 30,
+      "response_bytes_max": 99846
+    },
+    "parcel_scene": {
+      "samples": 20,
+      "median_ms": 20.05,
+      "p95_ms": 23.58,
+      "sql_statements_max": 5,
+      "response_bytes_max": 76894
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "name": "Demo / Synthetic Dataset",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Demo / Synthetic Dataset - parcel",
+        "is_synthetic": true,
+        "note": "Synthetic coordinates; no association with a real property or government record"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07806563304734,
+              13.02426164794774
+            ],
+            [
+              80.07806462978103,
+              13.024532893612244
+            ],
+            [
+              80.07778799141742,
+              13.024531909744647
+            ],
+            [
+              80.07778899498469,
+              13.024260664101329
+            ],
+            [
+              80.07806563304734,
+              13.02426164794774
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "label": "Demo / Synthetic Dataset",
+  "counts": {
+    "BUILDING": 1,
+    "FLOOR": 5,
+    "PARCEL": 1,
+    "SHARED": 5,
+    "UNDERGROUND": 1,
+    "UNIT": 10
+  },
+  "geometry_versions_current": 23,
+  "deterministic_identity_versions": 16,
+  "asset_files": 20,
+  "glb_files": 17,
+  "validation_errors": 0,
+  "tiles_content_and_bounds_checked": true,
+  "formal_ogc_schema_validation": false,
+  "khronos_report": [
+    {
+      "file": "09726806-8875-50f3-865c-8e9c61547135.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "0e2fb122-0791-565b-8dc6-10d865cbdc59.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "0ea4f819-23c3-5c61-b46e-52c878727beb.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "1339e03e-d518-5332-b138-52dc3cc4748e.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "23caa96a-479c-5220-8a34-e2e5346c6d07.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "2f3a01be-038b-5405-88b3-b453d2431e86.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "3f75333b-71b7-55c4-a6a3-5c8707fc18ba.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "40ea810c-ddf0-529c-881e-489a1ce66a00.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "59d7b1a3-f13d-5b5d-8b7f-a3b8bc34902c.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "68a78127-1bb7-5679-98bf-10c5865e1507.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "76016de2-606b-5363-a4e1-e16fe6415905.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "8f296a9e-11de-51d8-86ab-c9e977328f18.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "a3510fa4-5044-5c45-a11e-81456200c931.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "b110d31f-37e1-5128-8b0a-33dbf1110413.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "c63ee5fb-7087-5943-b93b-aaaeecdc9464.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "e4775cf7-9d67-5b4b-b47a-0a9de7bfd349.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    },
+    {
+      "file": "scene.glb",
+      "errors": 0,
+      "warnings": 0,
+      "messages": []
+    }
+  ],
+  "legal_acceptance": false
+}

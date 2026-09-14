@@ -1,0 +1,42 @@
+{
+  "scope": "Read-only database-wide audit; logical conflicts are distinct from orphan/corrupt records",
+  "table_counts": {
+    "app_users": 3,
+    "spatial_objects": 58,
+    "spatial_relationships": 0,
+    "source_datasets": 7,
+    "geometry_versions": 61,
+    "evidence": 50,
+    "property_rights": 1,
+    "processing_jobs": 53,
+    "validation_issues": 3,
+    "ulpin_identities": 42,
+    "review_cases": 0,
+    "review_decisions": 0,
+    "audit_events": 522,
+    "workflow_events": 91,
+    "right_scopes": 0,
+    "property_annotations": 0,
+    "spatial_suggestions": 16,
+    "suggestion_decisions": 16,
+    "height_observations": 1,
+    "identity_versions": 42,
+    "geometry_changes": 2,
+    "change_members": 4,
+    "asset_bundles": 2,
+    "geometry_attestations": 0
+  },
+  "foreign_keys_checked": 66,
+  "source_files_verified": 7,
+  "asset_files_verified": 50,
+  "object_kinds": {
+    "PARCEL": 2,
+    "BUILDING": 2,
+    "FLOOR": 12,
+    "UNIT": 22,
+    "SHARED": 18,
+    "UNDERGROUND": 2
+  },
+  "failures": [],
+  "passed": true
+}

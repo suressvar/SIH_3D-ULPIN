@@ -1,0 +1,571 @@
+{
+  "bundle": "67234778-768e-4ea2-b3d0-54e48a529550",
+  "files": [
+    "scene.glb",
+    "tileset.json",
+    "appearance.glb",
+    "appearance.png",
+    "appearance.json",
+    "site-preview.png",
+    "properties.geojson",
+    "gltf-validation.json",
+    "02470b2c-4d7c-5535-b6c4-1a9be4f959f9.glb",
+    "050b5b4f-84c7-5f92-af72-c7e4b3b36561.glb",
+    "14661d97-1bab-564b-b545-9f029d4e36f6.glb",
+    "18878fdf-3619-5cd1-8ada-82120a5bdb71.glb",
+    "26c25d5d-5406-5de8-b7bc-d54bd128930e.glb",
+    "30423367-2911-5fec-9f29-9d3b30a58b47.glb",
+    "3c63204d-b38c-518b-8408-3082048be80d.glb",
+    "4ac7ce97-b024-55a4-b3a9-1e13a8253df2.glb",
+    "4cc20474-e67b-587c-8288-8793e7d1a19c.glb",
+    "57ae01e5-cb1b-578b-bd77-05b39f57173d.glb",
+    "5dae6919-4181-51c2-b4d8-06443b3c4e53.glb",
+    "6604ca3c-d02e-5fe9-b220-d3cfdc83254f.glb",
+    "6f458c73-0813-57e2-be57-17cab33e9e0c.glb",
+    "7adb81f7-fe65-52e9-9743-c883806412b9.glb",
+    "810a4893-5d39-561d-8009-f11df91ee42e.glb",
+    "81d9416b-d5f5-53be-8b97-ba63c1c93bbb.glb",
+    "9178a7dc-bb64-534b-8218-26c9eeb972a8.glb",
+    "9701b18c-8865-588e-9212-afd1d61c7d30.glb",
+    "a2f3e705-7c25-5af7-93b9-dce73b5e7def.glb",
+    "b2411fa1-d7e4-5eb5-8b57-06311a6e16c7.glb",
+    "b429e180-3081-56d6-a084-4e72f54a7604.glb",
+    "bafeb049-3bfc-5e42-9f79-da58745db96c.glb",
+    "bc56b19d-1fb5-5b40-a3b9-1c8f991a8533.glb",
+    "c89cedd5-8510-5e61-8227-27891380653d.glb",
+    "d159c279-ba42-5df1-a7b8-932948bf2fef.glb",
+    "ede61f7e-480e-50fa-b584-f03ffdd65e76.glb"
+  ],
+  "khronos_errors": 0,
+  "appearance_bytes": 477844,
+  "geometry_validation": {
+    "meshes": [
+      {
+        "closed": true,
+        "volume": 0.5291999879837028,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.003267000241935257,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 8959.99984741211,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 1.412399764278341,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 1.216559824474267,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 116.10644781294825,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 84.64138087570983,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 4.33781852633935,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.09995999685406687,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3.695473906598552,
+        "vertices": 42,
+        "triangles": 80,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3.7143781117670827,
+        "vertices": 42,
+        "triangles": 80,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3.690866802939876,
+        "vertices": 42,
+        "triangles": 80,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3.630232386598919,
+        "vertices": 42,
+        "triangles": 80,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3.588983992445234,
+        "vertices": 42,
+        "triangles": 80,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3.6198716193331766,
+        "vertices": 42,
+        "triangles": 80,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3.6823008693677224,
+        "vertices": 42,
+        "triangles": 80,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3.7132692543884303,
+        "vertices": 42,
+        "triangles": 80,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3.702102051277333,
+        "vertices": 42,
+        "triangles": 80,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3.6489362102980762,
+        "vertices": 42,
+        "triangles": 80,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3.594177151344868,
+        "vertices": 42,
+        "triangles": 80,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 2000.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3680.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3740.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 5600.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3220.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 5280.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 2530.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 2992.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 4840.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 7084.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3240.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 4968.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 2880.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 4554.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 2400.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 4140.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 4080.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 5720.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3036.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 3366.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.4114000182271005,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 67.19999849796295,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 67.19999849796295,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 973.3758984639632,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 668.0523893695644,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.07870315714140584,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.07870315714140584,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 227.02558885371295,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.0009677500345259909,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.00512500003352761,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.009327499480620033,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 13.599447643976603,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 11.66344834683457,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.0032399999892711584,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.0032399999892711584,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 4.0,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 57.03350663460866,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.4676767676607783,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.3783743889055457,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 12.39282472155503,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 10.200824844579017,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.3456000240325933,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.08553600231099122,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.00291600016656518,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.1555200054502486,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.1555200054502486,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.00225000000745058,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.1011293888866905,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.08438520088094849,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.04505599774169925,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.02416699734067927,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.06415200571632398,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.40733998900696616,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.004158000160396099,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      },
+      {
+        "closed": true,
+        "volume": 0.002925999959886074,
+        "vertices": 8,
+        "triangles": 12,
+        "consistent_winding": true
+      }
+    ],
+    "mesh_count": 75
+  }
+}

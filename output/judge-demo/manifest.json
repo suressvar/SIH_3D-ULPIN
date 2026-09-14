@@ -1,0 +1,12 @@
+{
+  "label": "Demo / Synthetic Dataset",
+  "parcel_id": "6feb850d-eba0-5836-865a-bd8cc84fcae6",
+  "search": "DEMO26011P0001",
+  "building_id": "f2a6fad5-9ed0-5ed8-8283-d022a0542fd5",
+  "floor_id": "9de78daa-7e89-5eef-8a84-372c33240e20",
+  "unit_id": "4ac7ce97-b024-55a4-b3a9-1e13a8253df2",
+  "corrected_footprint_file": "corrected-A301.geojson",
+  "asset_bundle_id": "31a18567-06fb-4d67-b65f-06d2338a1cd8",
+  "ai_boundary": "Unavailable: no trained checkpoint supplied; DERIVED test error is explicitly not AI output",
+  "legal_effect": "none"
+}

@@ -1,0 +1,1086 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "09726806-8875-50f3-865c-8e9c61547135",
+      "properties": {
+        "object_id": "09726806-8875-50f3-865c-8e9c61547135",
+        "label": "Demo / Synthetic Dataset \u2014 basement",
+        "kind": "UNDERGROUND",
+        "parent_id": "b2337d02-89f9-5f34-a719-3b5f8615164b",
+        "source": "MANUAL",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "e8953fdb134c6da9efcdba0ccfa5fecb7a2686dceca39674a23487275e61008d",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-69a701a8ce8d5c92c41aed8bd161305f7ca455e5d3c297ad4188990067846223",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 7.0,
+        "z_max": 10.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07799166222759,
+              13.02431563474978
+            ],
+            [
+              80.07799112710983,
+              13.024460299101271
+            ],
+            [
+              80.07784358669244,
+              13.024459774369651
+            ],
+            [
+              80.07784412189581,
+              13.024315110024189
+            ],
+            [
+              80.07799166222759,
+              13.02431563474978
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e2fb122-0791-565b-8dc6-10d865cbdc59",
+      "properties": {
+        "object_id": "0e2fb122-0791-565b-8dc6-10d865cbdc59",
+        "label": "Suggested unit 3",
+        "kind": "UNIT",
+        "parent_id": "3cc1645c-c650-57fc-acd3-64cdca1b2877",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "07756f1a4a80ec9eeac5a01ebef0c92d0028b9660388b37d4bcf5e9a24162b45",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-0a030cdbcd459b2ed58898bec2e528630246fb587d470b394daa13e8b9453dc0",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 16.0,
+        "z_max": 19.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07793576600545,
+              13.024469143858525
+            ],
+            [
+              80.07793636804907,
+              13.024306396465635
+            ],
+            [
+              80.07800091694286,
+              13.024306626020293
+            ],
+            [
+              80.07800031494139,
+              13.024469373416148
+            ],
+            [
+              80.07793576600545,
+              13.024469143858525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ea4f819-23c3-5c61-b46e-52c878727beb",
+      "properties": {
+        "object_id": "0ea4f819-23c3-5c61-b46e-52c878727beb",
+        "label": "Suggested unit 2",
+        "kind": "SHARED",
+        "parent_id": "3cc1645c-c650-57fc-acd3-64cdca1b2877",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "ad34971f1a5fc7862481adccb0b482783beae22c584f200358bf04bda3fb780f",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-66372d1a27391f0ee2f23ae82ef7ea0522925625aba16529c242cb32673cf581",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 16.0,
+        "z_max": 19.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07791732345258,
+              13.024469078267678
+            ],
+            [
+              80.0779179255082,
+              13.024306330875637
+            ],
+            [
+              80.07792714677863,
+              13.024306363670803
+            ],
+            [
+              80.07792654472901,
+              13.024469111063263
+            ],
+            [
+              80.07791732345258,
+              13.024469078267678
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1339e03e-d518-5332-b138-52dc3cc4748e",
+      "properties": {
+        "object_id": "1339e03e-d518-5332-b138-52dc3cc4748e",
+        "label": "Suggested unit 2",
+        "kind": "SHARED",
+        "parent_id": "8935e24c-375c-5a0f-9c53-c5e15211b828",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "f5c2b96afad00ad2c96a6ab025e7d2b3bd6e7243e794d797d7a9a8a3717bebad",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-a1f0a36603cc05cca2c9529eb4fe82302630f65108bbf273655c69427b37f0d2",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 13.0,
+        "z_max": 16.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07791732345258,
+              13.024469078267678
+            ],
+            [
+              80.0779179255082,
+              13.024306330875637
+            ],
+            [
+              80.07792714677863,
+              13.024306363670803
+            ],
+            [
+              80.07792654472901,
+              13.024469111063263
+            ],
+            [
+              80.07791732345258,
+              13.024469078267678
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23caa96a-479c-5220-8a34-e2e5346c6d07",
+      "properties": {
+        "object_id": "23caa96a-479c-5220-8a34-e2e5346c6d07",
+        "label": "Suggested unit 2",
+        "kind": "SHARED",
+        "parent_id": "975a1470-5f89-55ed-bfdc-c0c408e613df",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "5c3e361e1c2ebabbe920e68ec65f854ecbf219a27efb71f7c3d8c602f20eac8f",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-e721c6f338136972680e89c98f733cdff9504f7c4947088fc6915f4ca0b7cfc6",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 19.0,
+        "z_max": 22.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07791732345258,
+              13.024469078267678
+            ],
+            [
+              80.0779179255082,
+              13.024306330875637
+            ],
+            [
+              80.07792714677863,
+              13.024306363670803
+            ],
+            [
+              80.07792654472901,
+              13.024469111063263
+            ],
+            [
+              80.07791732345258,
+              13.024469078267678
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2f3a01be-038b-5405-88b3-b453d2431e86",
+      "properties": {
+        "object_id": "2f3a01be-038b-5405-88b3-b453d2431e86",
+        "label": "Suggested unit 3",
+        "kind": "UNIT",
+        "parent_id": "975a1470-5f89-55ed-bfdc-c0c408e613df",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "72ec8c14cdae59a69e2b286ca18dd6afab2726230fc7fee72356dd4f7f89b283",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-c03edca049c7e155e9112bd095458d76d29c1df1ee19940bde154618ccadfce5",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 19.0,
+        "z_max": 22.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07793576600545,
+              13.024469143858525
+            ],
+            [
+              80.07793636804907,
+              13.024306396465635
+            ],
+            [
+              80.07800091694286,
+              13.024306626020293
+            ],
+            [
+              80.07800031494139,
+              13.024469373416148
+            ],
+            [
+              80.07793576600545,
+              13.024469143858525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3cc1645c-c650-57fc-acd3-64cdca1b2877",
+      "properties": {
+        "object_id": "3cc1645c-c650-57fc-acd3-64cdca1b2877",
+        "label": "F2",
+        "kind": "FLOOR",
+        "parent_id": "b69c9dda-5bc9-5a49-9def-42fb5fd3f547",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "4d7489e023bf6b9fa40a0653409b10d68d818fd336623acd7fa3165e5713d504",
+        "proposed_3d_ulpin": null,
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 16.0,
+        "z_max": 19.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0778250772385,
+              13.024477791815272
+            ],
+            [
+              80.0778257462561,
+              13.02429696138438
+            ],
+            [
+              80.07801017165745,
+              13.02429761729043
+            ],
+            [
+              80.07800950277363,
+              13.024478447730738
+            ],
+            [
+              80.0778250772385,
+              13.024477791815272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3f75333b-71b7-55c4-a6a3-5c8707fc18ba",
+      "properties": {
+        "object_id": "3f75333b-71b7-55c4-a6a3-5c8707fc18ba",
+        "label": "Suggested unit 1",
+        "kind": "UNIT",
+        "parent_id": "7a6676af-247c-58a5-9489-1fb96a6dd966",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "a731ef57a20b31fd360d6a06253ea99d85ce3cb8278faf1fce369a2bc63baf7e",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-f0b8a48ed75b4b9dd4c782ba010906d3678ebd2e9512ef8ae3566125958652e8",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 22.0,
+        "z_max": 25.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0778343319658,
+              13.024468783092654
+            ],
+            [
+              80.07783493407561,
+              13.024306035704427
+            ],
+            [
+              80.07790870423783,
+              13.024306298080148
+            ],
+            [
+              80.07790810217617,
+              13.024469045471765
+            ],
+            [
+              80.0778343319658,
+              13.024468783092654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40ea810c-ddf0-529c-881e-489a1ce66a00",
+      "properties": {
+        "object_id": "40ea810c-ddf0-529c-881e-489a1ce66a00",
+        "label": "Suggested unit 1",
+        "kind": "UNIT",
+        "parent_id": "3cc1645c-c650-57fc-acd3-64cdca1b2877",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "26c364d4d922245eee10288d2b5773878b06f2e39dce2dbd613ac0c9e2c28a66",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-6347aeabd7012853ea8d1f914f6590c3efab8d9eb375396c0d813d38b78fd9b6",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 16.0,
+        "z_max": 19.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0778343319658,
+              13.024468783092654
+            ],
+            [
+              80.07783493407561,
+              13.024306035704427
+            ],
+            [
+              80.07790870423783,
+              13.024306298080148
+            ],
+            [
+              80.07790810217617,
+              13.024469045471765
+            ],
+            [
+              80.0778343319658,
+              13.024468783092654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "59d7b1a3-f13d-5b5d-8b7f-a3b8bc34902c",
+      "properties": {
+        "object_id": "59d7b1a3-f13d-5b5d-8b7f-a3b8bc34902c",
+        "label": "Suggested unit 2",
+        "kind": "SHARED",
+        "parent_id": "bb0876ec-220a-5f61-9083-c15e421eb5b0",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "5d43677de992e937510dfe5119fd31e9006c34074b4fee4ac5f6cf5a40073236",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-4cefe678ed188d6e7a1d235beee7f601d02a19ffbb9d2a84b7d18c58f46066a8",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 10.0,
+        "z_max": 13.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07791732345258,
+              13.024469078267678
+            ],
+            [
+              80.0779179255082,
+              13.024306330875637
+            ],
+            [
+              80.07792714677863,
+              13.024306363670803
+            ],
+            [
+              80.07792654472901,
+              13.024469111063263
+            ],
+            [
+              80.07791732345258,
+              13.024469078267678
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68a78127-1bb7-5679-98bf-10c5865e1507",
+      "properties": {
+        "object_id": "68a78127-1bb7-5679-98bf-10c5865e1507",
+        "label": "Suggested unit 1",
+        "kind": "UNIT",
+        "parent_id": "975a1470-5f89-55ed-bfdc-c0c408e613df",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "fd2c71958b196182e6587641c3a1dec8f74ddf415e4ead9f202bbfb68d2bf11f",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-3b4f903f9c976c5fa064a83b6ba1b69a5a2b197cdb4387b1d607f531a7e3d2c1",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 19.0,
+        "z_max": 22.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0778343319658,
+              13.024468783092654
+            ],
+            [
+              80.07783493407561,
+              13.024306035704427
+            ],
+            [
+              80.07790870423783,
+              13.024306298080148
+            ],
+            [
+              80.07790810217617,
+              13.024469045471765
+            ],
+            [
+              80.0778343319658,
+              13.024468783092654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76016de2-606b-5363-a4e1-e16fe6415905",
+      "properties": {
+        "object_id": "76016de2-606b-5363-a4e1-e16fe6415905",
+        "label": "Suggested unit 1",
+        "kind": "UNIT",
+        "parent_id": "8935e24c-375c-5a0f-9c53-c5e15211b828",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "56813e1813870a350eb940068039a155425832171fef3363541407906164606d",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-9d6de7efb5a07c2249ec10e3a8ca9a39079e20af852549de1270b0193db7fff3",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 13.0,
+        "z_max": 16.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0778343319658,
+              13.024468783092654
+            ],
+            [
+              80.07783493407561,
+              13.024306035704427
+            ],
+            [
+              80.07790870423783,
+              13.024306298080148
+            ],
+            [
+              80.07790810217617,
+              13.024469045471765
+            ],
+            [
+              80.0778343319658,
+              13.024468783092654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a6676af-247c-58a5-9489-1fb96a6dd966",
+      "properties": {
+        "object_id": "7a6676af-247c-58a5-9489-1fb96a6dd966",
+        "label": "F4",
+        "kind": "FLOOR",
+        "parent_id": "b69c9dda-5bc9-5a49-9def-42fb5fd3f547",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "9b8d60d4a80f7089db6cd96a23c60b6d5bd233b7adac4fd61437a5077f8f638f",
+        "proposed_3d_ulpin": null,
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 22.0,
+        "z_max": 25.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0778250772385,
+              13.024477791815272
+            ],
+            [
+              80.0778257462561,
+              13.02429696138438
+            ],
+            [
+              80.07801017165745,
+              13.02429761729043
+            ],
+            [
+              80.07800950277363,
+              13.024478447730738
+            ],
+            [
+              80.0778250772385,
+              13.024477791815272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8935e24c-375c-5a0f-9c53-c5e15211b828",
+      "properties": {
+        "object_id": "8935e24c-375c-5a0f-9c53-c5e15211b828",
+        "label": "F1",
+        "kind": "FLOOR",
+        "parent_id": "b69c9dda-5bc9-5a49-9def-42fb5fd3f547",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "3cfd6f5b09d6383720aca79691b31f0c1c195711d22464adb04d76d1ac247a05",
+        "proposed_3d_ulpin": null,
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 13.0,
+        "z_max": 16.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0778250772385,
+              13.024477791815272
+            ],
+            [
+              80.0778257462561,
+              13.02429696138438
+            ],
+            [
+              80.07801017165745,
+              13.02429761729043
+            ],
+            [
+              80.07800950277363,
+              13.024478447730738
+            ],
+            [
+              80.0778250772385,
+              13.024477791815272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8f296a9e-11de-51d8-86ab-c9e977328f18",
+      "properties": {
+        "object_id": "8f296a9e-11de-51d8-86ab-c9e977328f18",
+        "label": "Suggested unit 3",
+        "kind": "UNIT",
+        "parent_id": "bb0876ec-220a-5f61-9083-c15e421eb5b0",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "8337f3eabe29569d556669527078088ace01a2e12234a9b0c33220d6761542a7",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-62b82534a55c9527549c12acf2310cffd6617eebcf856e9313f1e301b34b588b",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 10.0,
+        "z_max": 13.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07793576600545,
+              13.024469143858525
+            ],
+            [
+              80.07793636804907,
+              13.024306396465635
+            ],
+            [
+              80.07800091694286,
+              13.024306626020293
+            ],
+            [
+              80.07800031494139,
+              13.024469373416148
+            ],
+            [
+              80.07793576600545,
+              13.024469143858525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "975a1470-5f89-55ed-bfdc-c0c408e613df",
+      "properties": {
+        "object_id": "975a1470-5f89-55ed-bfdc-c0c408e613df",
+        "label": "F3",
+        "kind": "FLOOR",
+        "parent_id": "b69c9dda-5bc9-5a49-9def-42fb5fd3f547",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "87fc8c56b01de3a776f159518f67586244b6b4d79ea3a3b78398f800b38c82b0",
+        "proposed_3d_ulpin": null,
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 19.0,
+        "z_max": 22.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0778250772385,
+              13.024477791815272
+            ],
+            [
+              80.0778257462561,
+              13.02429696138438
+            ],
+            [
+              80.07801017165745,
+              13.02429761729043
+            ],
+            [
+              80.07800950277363,
+              13.024478447730738
+            ],
+            [
+              80.0778250772385,
+              13.024477791815272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a3510fa4-5044-5c45-a11e-81456200c931",
+      "properties": {
+        "object_id": "a3510fa4-5044-5c45-a11e-81456200c931",
+        "label": "Suggested unit 1",
+        "kind": "UNIT",
+        "parent_id": "bb0876ec-220a-5f61-9083-c15e421eb5b0",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "c828a1df52c7dc89b2fc19f7cf4bc31edd2aa784972a21499d885f87e85c63e4",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-b4dd78a7600c5f093223a45fbfeb7de1a05aa10f1107f319131ee4e1a6824be0",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 10.0,
+        "z_max": 13.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0778343319658,
+              13.024468783092654
+            ],
+            [
+              80.07783493407561,
+              13.024306035704427
+            ],
+            [
+              80.07790870423783,
+              13.024306298080148
+            ],
+            [
+              80.07790810217617,
+              13.024469045471765
+            ],
+            [
+              80.0778343319658,
+              13.024468783092654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b110d31f-37e1-5128-8b0a-33dbf1110413",
+      "properties": {
+        "object_id": "b110d31f-37e1-5128-8b0a-33dbf1110413",
+        "label": "Suggested unit 3",
+        "kind": "UNIT",
+        "parent_id": "8935e24c-375c-5a0f-9c53-c5e15211b828",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "b91fb501c1c68f31d9eabd946262e17b5b6104934600ac84b8d6babf8671ea89",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-231791972c4b9d751ff850ec947212f4c70c006fb53caf45760c460b4dcc985b",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 13.0,
+        "z_max": 16.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07793576600545,
+              13.024469143858525
+            ],
+            [
+              80.07793636804907,
+              13.024306396465635
+            ],
+            [
+              80.07800091694286,
+              13.024306626020293
+            ],
+            [
+              80.07800031494139,
+              13.024469373416148
+            ],
+            [
+              80.07793576600545,
+              13.024469143858525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b2337d02-89f9-5f34-a719-3b5f8615164b",
+      "properties": {
+        "object_id": "b2337d02-89f9-5f34-a719-3b5f8615164b",
+        "label": "Demo / Synthetic Dataset \u2014 source pipeline parcel",
+        "kind": "PARCEL",
+        "parent_id": null,
+        "source": "MANUAL",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "73d5484bc3af7e9fcfc483e424ff42a6deef9cff1b684211db300b174c120570",
+        "proposed_3d_ulpin": null,
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": null,
+        "z_min": null,
+        "z_max": null,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07808407558568,
+              13.02426171352701
+            ],
+            [
+              80.07808300545553,
+              13.024551042237116
+            ],
+            [
+              80.07778792451214,
+              13.024549992787328
+            ],
+            [
+              80.07778899498469,
+              13.024260664101329
+            ],
+            [
+              80.07808407558568,
+              13.02426171352701
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b69c9dda-5bc9-5a49-9def-42fb5fd3f547",
+      "properties": {
+        "object_id": "b69c9dda-5bc9-5a49-9def-42fb5fd3f547",
+        "label": "Suggested building 1",
+        "kind": "BUILDING",
+        "parent_id": "b2337d02-89f9-5f34-a719-3b5f8615164b",
+        "source": "DEM_DSM",
+        "is_synthetic": true,
+        "geometry_version": 2,
+        "geometry_hash": "a720e55ab62ff1e668663673b548f70aa380ec6cb170f0c3c7ecda86bc736877",
+        "proposed_3d_ulpin": null,
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 10.0,
+        "z_max": 25.0,
+        "height_estimated": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0778250772385,
+              13.024477791815272
+            ],
+            [
+              80.0778257462561,
+              13.02429696138438
+            ],
+            [
+              80.07801017165745,
+              13.02429761729043
+            ],
+            [
+              80.07800950277363,
+              13.024478447730738
+            ],
+            [
+              80.0778250772385,
+              13.024477791815272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bb0876ec-220a-5f61-9083-c15e421eb5b0",
+      "properties": {
+        "object_id": "bb0876ec-220a-5f61-9083-c15e421eb5b0",
+        "label": "GF",
+        "kind": "FLOOR",
+        "parent_id": "b69c9dda-5bc9-5a49-9def-42fb5fd3f547",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "47c3ec8a8f4ca84841b7c40ebf002fc4ce682cffc8f43f95cbb70ea086ed5c18",
+        "proposed_3d_ulpin": null,
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 10.0,
+        "z_max": 13.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.0778250772385,
+              13.024477791815272
+            ],
+            [
+              80.0778257462561,
+              13.02429696138438
+            ],
+            [
+              80.07801017165745,
+              13.02429761729043
+            ],
+            [
+              80.07800950277363,
+              13.024478447730738
+            ],
+            [
+              80.0778250772385,
+              13.024477791815272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c63ee5fb-7087-5943-b93b-aaaeecdc9464",
+      "properties": {
+        "object_id": "c63ee5fb-7087-5943-b93b-aaaeecdc9464",
+        "label": "Suggested unit 2",
+        "kind": "SHARED",
+        "parent_id": "7a6676af-247c-58a5-9489-1fb96a6dd966",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "6334825cfc9d54107baa7d906a92564883b50f3ad8c80ef108beef8207ffba32",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-405b643b1e770cd0165eb21094ef56e374a809e2e89f41aa13f2d68b700659c7",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 22.0,
+        "z_max": 25.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07791732345258,
+              13.024469078267678
+            ],
+            [
+              80.0779179255082,
+              13.024306330875637
+            ],
+            [
+              80.07792714677863,
+              13.024306363670803
+            ],
+            [
+              80.07792654472901,
+              13.024469111063263
+            ],
+            [
+              80.07791732345258,
+              13.024469078267678
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e4775cf7-9d67-5b4b-b47a-0a9de7bfd349",
+      "properties": {
+        "object_id": "e4775cf7-9d67-5b4b-b47a-0a9de7bfd349",
+        "label": "Suggested unit 3",
+        "kind": "UNIT",
+        "parent_id": "7a6676af-247c-58a5-9489-1fb96a6dd966",
+        "source": "DERIVED",
+        "is_synthetic": true,
+        "geometry_version": 1,
+        "geometry_hash": "0d1ebfbdb5b72de5948b7ac9916caf59cd6de12712521736d146e12b23c7db2e",
+        "proposed_3d_ulpin": "ASTRA-P3D-2-b45fe7702362621c01c3d570637e5dfa6e896c5cc48738e86d50c7d5f2ae50cc",
+        "identity_label": "Proposed 3D ULPIN",
+        "vertical_reference": "EPSG:4979",
+        "z_min": 22.0,
+        "z_max": 25.0,
+        "height_estimated": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.07793576600545,
+              13.024469143858525
+            ],
+            [
+              80.07793636804907,
+              13.024306396465635
+            ],
+            [
+              80.07800091694286,
+              13.024306626020293
+            ],
+            [
+              80.07800031494139,
+              13.024469373416148
+            ],
+            [
+              80.07793576600545,
+              13.024469143858525
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+FROM node:22-bookworm-slim AS gltf
+WORKDIR /gltf
+COPY tools/gltf/package*.json ./
+RUN npm ci --omit=dev
+COPY tools/gltf/verify.mjs ./
+
+FROM python:3.12-slim-bookworm
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 BLENDER_EXECUTABLE=/usr/bin/blender NODE_EXECUTABLE=/usr/local/bin/node GLTF_VERIFY_SCRIPT=/opt/gltf/verify.mjs
+RUN apt-get update && apt-get install -y --no-install-recommends blender && rm -rf /var/lib/apt/lists/*
+COPY --from=gltf /usr/local/bin/node /usr/local/bin/node
+COPY --from=gltf /gltf /opt/gltf
+WORKDIR /app
+COPY backend/requirements.lock backend/pyproject.toml ./
+RUN pip install --no-cache-dir -r requirements.lock
+COPY backend/app ./app
+COPY backend/migrations ./migrations
+COPY backend/alembic.ini ./
+RUN pip install --no-deps . && useradd --create-home astra && mkdir -p /data/objects && chown -R astra:astra /data /app
+USER astra
+CMD ["celery", "-A", "app.worker.celery_app", "worker", "--loglevel=INFO", "--concurrency=2"]

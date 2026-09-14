@@ -1,0 +1,7 @@
+{
+  "cpuSlowdown": 4,
+  "latencyMs": 150,
+  "downloadBytesPerSecond": 150000,
+  "parcelToUnitMs": 7302,
+  "limitation": "Chromium synthetic throttling; not a physical low-RAM or weak-GPU benchmark"
+}

@@ -1,0 +1,10 @@
+# Optional real Blender worker. This container build has not been tested on this host.
+services:
+  worker:
+    build:
+      context: .
+      dockerfile: tools/gltf/Dockerfile.worker
+    environment:
+      BLENDER_EXECUTABLE: /usr/bin/blender
+      NODE_EXECUTABLE: /usr/local/bin/node
+      GLTF_VERIFY_SCRIPT: /opt/gltf/verify.mjs
